@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 first line created(edited)
-=======
-first line created
+
 second line created 
->>>>>>> 69acc649fd0fa809f08ae6f5d5349d234f2600df
+
